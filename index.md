@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="https://www.bluey.tv/wp-content/uploads/2023/07/Muffin-1.png">
 
 Hi! I am PhD year student of Biomedical Informatics (BMI) at Emory University, USA.
 
