@@ -1,6 +1,7 @@
+# About
+I am currently a Computer Scicence PhD student in [Madabhushi Lab](https://med.emory.edu/departments/radiology/research/research-labs/madabhushi-lab/index.html).
 
-
-# Publication
+# Research
 
 ## 	Batch Effect Explorer for Imaging Analysis
 [[paper]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11735318/) 
