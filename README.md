@@ -13,7 +13,8 @@ BEEx is a pre-screening tool for image-based analyses that allows researchers to
 ![oralcavity_abstract](assets/imgs/oral_cavity.jpg)
 * The proposed model achieved a consistently accurate performance for epithelium segmentation.
 * The model trained on 10x magnification images achieved the best performance.
-* Morphologic features extracted from human- and AI-annotated epithelial regions are equivalent.  
+* Morphologic features extracted from human- and AI-annotated epithelial regions are equivalent.
+
 > Wu Y, Koyuncu CF, Toro P, Corredor G, Feng Q, Buzzy C, Old M, Teknos T, Connelly ST, Jordan RC, Lang Kuhs KA, Lu C, Lewis JS Jr, Madabhushi A. A machine learning model for separating epithelial and stromal regions in oral cavity squamous cell carcinomas using H&E-stained histology images: A multi-center, retrospective study. Oral Oncol. 2022 Aug;131:105942. doi: 10.1016/j.oraloncology.2022.105942. Epub 2022 Jun 8. PMID: 35689952. 
 
 
