@@ -4,4 +4,6 @@ plugins:
 title: Yuxin Wu
 logo: assets/imgs/otto.png
 description: Computer Science Phd Student at Emory Univerisy Georgia Aquarium Campus
+github:
+  is_user_page: false
 google_analytics:
