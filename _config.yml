@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Yuxin Wu
 logo: assets/imgs/otto.png
-description: Computer Science Phd Student at Emory Univerisy Georgia Aquarium Campus
+description: Computer Science Phd Student at Emory Univerisy Georgia Aquarium Campus [Madabhushi Lab](https://med.emory.edu/departments/radiology/research/research-labs/madabhushi-lab/index.html)
 github:
   is_user_page: false
 google_analytics:
