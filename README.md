@@ -3,6 +3,7 @@
 # Publication
 
 ## 	Batch Effect Explorer for Imaging Analysis
+![beex_overview](assets/imgs/beex_overview.png)
 BEEx is a pre-screening tool for image-based analyses that allows researchers to evaluate batch effects in multi-center studies and determine their origin and magnitude to facilitate development of accurate AI-based cancer models.  
 [[paper]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11735318/) 
 [[code]](https://github.com/wuusn/beex)
